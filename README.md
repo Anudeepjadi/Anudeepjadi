@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Anudeep Jadi 👋</h1>
 <h3 align="center">Software Engineer | Flutter & Dart | Python | Kotlin | AI/ML Enthusiast</h3><p align="center">
-  <a href="https://linkedin.com/in/anudeep-jaadi"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/anudeep-jaadi-0465ba197"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:anudeepjadi.22@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://github.com/Anudeepjadi"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
@@ -47,7 +47,7 @@ A multi-role (Admin, Teacher, Student) school management mobile app built with K
 
 📫 Connect with Me
 <p align="center">
-  <a href="https://linkedin.com/in/anudeep-jaadi">LinkedIn</a> •
+  <a href="https://www.linkedin.com/in/anudeep-jaadi-0465ba197">LinkedIn</a> •
   <a href="mailto:anudeepjadi.22@gmail.com">Email</a> •
   <a href="tel:+919704770375">+91-9704770375</a>
 </p><p align="center"><i>⭐ Feel free to explore my repositories and reach out for collaboration!</i></p>
